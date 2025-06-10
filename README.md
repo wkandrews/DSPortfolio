@@ -1,6 +1,4 @@
-# DSPortfolio
-Data Science Portfolio
-
-*italics*
-
-  **bold**
+# Data Science CV
+## Work Experience
+## Education
+## Projects

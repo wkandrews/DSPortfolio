@@ -1,6 +1,6 @@
 # DSPortfolio
 Data Science Portfolio
 
-* italics *
+*italics*
 
   **bold**
